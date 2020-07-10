@@ -13,7 +13,7 @@ of voor alles 'vergeet niet de punt'
 $ git add .  
 $ git status  
 $ git commit -m '*start commit'  
-##Voeg toe aan remote repo  
+## Voeg toe aan remote repo  
 $ git remote add origin *https://github.com/Markuiper/test2.git  
 $ git push -u origin master  
 
